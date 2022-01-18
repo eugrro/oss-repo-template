@@ -1,4 +1,4 @@
-# Open Source Software - Summer 2019
+# Open Source Software - Spring 2022
 ## Eugene Rozental
 Discord: eugro#6716
 ## Bio
