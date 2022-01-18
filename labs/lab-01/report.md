@@ -6,8 +6,10 @@
 <img src="https://github.com/eugrro/oss-repo-template/blob/master/images/join_proof.png">
     
 ## 2    
-1. This one is important because    
-  2. 2. I like this one because    
+1. The ten criteria for open source are very important to set a standard for open source so that everyone knows what they are contributing to and what they can do with the open source code. These rules outline the rules that everyone must follow when working on and using open source material so that there are no surprises when the code is altered, modified, changed, updated or otherwise used by another individual or party
+2. I think two more things that can be added to how to answer a question in a helpful way are:
+    1. Provide supporting evidence and additional information when needed. Linking to other websites or tutorials can be extrememly helpful to the other person since this both validates your response and provides more assistance to the question asker if there is any doubt left over after your response
+    2. In many forums (such as StackOverflow) upvoting and downvoting other responses are just as valuable as creating your response since you validate the correct answers which improves confidence of other users when they run into a similar issue     
 ## 3    
 <img src="https://github.com/eugrro/oss-repo-template/blob/master/images/man_tree.png"> 
 
