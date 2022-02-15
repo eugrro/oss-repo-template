@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/hi2.dir/hi2.c.o  -o hi2  -Wl,-rpath,/mnt/c/Users/eugen/Documents/OpenSourceSoftware/oss-repo-template/labs/lab-05/Ex-sp17/build libhello.so 

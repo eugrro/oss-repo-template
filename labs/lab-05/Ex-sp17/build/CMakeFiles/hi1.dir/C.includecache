@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/eugen/Documents/OpenSourceSoftware/oss-repo-template/labs/lab-05/Ex-sp17/source/hello.h
+
+/mnt/c/Users/eugen/Documents/OpenSourceSoftware/oss-repo-template/labs/lab-05/Ex-sp17/source/hi1.c
+hello.h
+/mnt/c/Users/eugen/Documents/OpenSourceSoftware/oss-repo-template/labs/lab-05/Ex-sp17/source/hello.h
+

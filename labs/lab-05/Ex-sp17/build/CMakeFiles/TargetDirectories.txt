@@ -1,0 +1,5 @@
+/mnt/c/Users/eugen/Documents/OpenSourceSoftware/oss-repo-template/labs/lab-05/Ex-sp17/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/eugen/Documents/OpenSourceSoftware/oss-repo-template/labs/lab-05/Ex-sp17/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/eugen/Documents/OpenSourceSoftware/oss-repo-template/labs/lab-05/Ex-sp17/build/CMakeFiles/hi2.dir
+/mnt/c/Users/eugen/Documents/OpenSourceSoftware/oss-repo-template/labs/lab-05/Ex-sp17/build/CMakeFiles/hi1.dir
+/mnt/c/Users/eugen/Documents/OpenSourceSoftware/oss-repo-template/labs/lab-05/Ex-sp17/build/CMakeFiles/hello.dir
